@@ -6,6 +6,7 @@ on:
   push:
     branches:
       - main
+      - test-ci
 
 env:
   MYSQL_PORT: 3306
